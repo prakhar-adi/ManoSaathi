@@ -4,7 +4,7 @@
 [![Problem Statement](https://img.shields.io/badge/PS%20ID-25092-green.svg)]()
 [![Theme](https://img.shields.io/badge/Theme-MedTech%2FBioTech%2FHealthTech-orange.svg)]()
 [![Category](https://img.shields.io/badge/Category-Software-red.svg)]()
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black.svg)](https://manosaathi.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black.svg)](https://mano-saathi.vercel.app/)
 
 > **ManoSaathi** (मनोसाथी) - "Friend of the Mind" - A comprehensive digital mental health and psychological support system specifically designed for students in higher education institutions across India.
 
