@@ -8,6 +8,7 @@
 
 > **ManoSaathi** (मनोसाथी) - "Friend of the Mind" - A comprehensive digital mental health and psychological support system specifically designed for students in higher education institutions across India.
 
+## Live link - https://mano-saathi.vercel.app/
 ## 🌟 Overview
 
 ManoSaathi addresses the critical mental health crisis in Indian higher education by providing a culturally-sensitive, multilingual, and comprehensive digital support platform. Built for **Smart India Hackathon 2025**, this solution tackles Problem Statement 25092 with innovative features designed to save lives and improve student wellbeing.
@@ -70,6 +71,7 @@ A comprehensive digital ecosystem providing:
 - **Framer Motion** for animations
 
 ### Backend
+- **Next.js + Express.js**
 - **Supabase** (PostgreSQL database)
 - **Real-time subscriptions** for live updates
 - **Row Level Security** for data protection
@@ -116,9 +118,9 @@ A comprehensive digital ecosystem providing:
    Add your environment variables:
    ```env
    VITE_SUPABASE_PROJECT_ID=your_supabase_projectid
-VITE_SUPABASE_URL=your_production_supabase_url
-VITE_SUPABASE_PUBLISHABLE_KEY=your_supabase_publishable_key
-VITE_GEMINI_API_KEY=your_gemini_api_key
+   VITE_SUPABASE_URL=your_production_supabase_url
+   VITE_SUPABASE_PUBLISHABLE_KEY=your_supabase_publishable_key
+   VITE_GEMINI_API_KEY=your_gemini_api_key
    ```
 
 4. **Database Setup**
@@ -270,8 +272,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 ### Project Links
-- **Live Demo**: [https://manosaathi.vercel.app](https://manosaathi.vercel.app)
-- **GitHub Repository**: [https://github.com/your-username/manosaathi](https://github.com/your-username/manosaathi)
+- **Live Demo**: [https://manosaathi.vercel.app](https://mano-saathi.vercel.app/)
+- **GitHub Repository**: [https://github.com/prakhar-adi/ManoSaathi.git](https://github.com/prakhar-adi/ManoSaathi.git)
 
 
 ---
@@ -291,8 +293,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ⭐ **If this project helped you or could help others, please star this repository!**
 
-[![GitHub stars](https://img.shields.io/github/stars/your-username/manosaathi.svg?style=social&label=Star)](https://github.com/your-username/manosaathi)
-[![GitHub forks](https://img.shields.io/github/forks/your-username/manosaathi.svg?style=social&label=Fork)](https://github.com/your-username/manosaathi/fork)
-[![GitHub watchers](https://img.shields.io/github/watchers/your-username/manosaathi.svg?style=social&label=Watch)](https://github.com/your-username/manosaathi)
 
 #MentalHealth #DigitalIndia #StudentWellness #ManoSaathi
