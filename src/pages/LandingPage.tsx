@@ -128,15 +128,15 @@ const LandingPage: React.FC = () => {
             </CardHeader>
             <CardContent className="space-y-4">
               <div className="flex items-center gap-3">
-                <span className="text-2xl">🇬🇧</span>
-                <span>English - Full support</span>
+                <span className="text-2xl">English</span>
+                <span>Eng - Full support</span>
               </div>
               <div className="flex items-center gap-3">
-                <span className="text-2xl">🇮🇳</span>
+                <span className="text-2xl">Hindi</span>
                 <span>हिंदी - Complete support</span>
               </div>
               <div className="flex items-center gap-3">
-                <span className="text-2xl">🇵🇰</span>
+                <span className="text-2xl">Urdu</span>
                 <span>اردو - Full support</span>
               </div>
             </CardContent>
